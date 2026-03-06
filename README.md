@@ -7,14 +7,19 @@
 - Avanced engineering student.
 - Currently learning AI development
 - Personal website:.
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br></br>
   
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies that I know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,c,cpp,py,arduino,antigravity/>
+  </a>
+</p>
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br></br>>
